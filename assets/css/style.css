@@ -133,7 +133,8 @@ main {
 }
 
 .remember {
-    display: inline-block;
+    display: flex;
+    align-items: center;
     margin-bottom: 1rem;
     font-size: 1.4rem;
     font-weight: 400;
